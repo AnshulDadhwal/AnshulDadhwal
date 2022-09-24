@@ -7,4 +7,4 @@ As a software engineering major, I have recently started out in the world of Dev
 Besides coding, I spend my free time listening to music and going out on late night walks! Some of my favourite sport based hobbies include football, tennis and cricket.
 You can checkout my profile on [Linkedin](https://www.linkedin.com/in/anshul-dadhwal-8b7271226/).  Happy to connect!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulDadhwal&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshul Dadhwal&show_icons=true&theme=radical)
