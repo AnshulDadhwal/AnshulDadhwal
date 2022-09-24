@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshul Dadhwal</h1>
-<h3 align="center">I am a Software Engineering Student who is passionate about coding and learning new skills everyday.</h3>
+<h1 align="center">Hello there 👋, I'm Anshul Dadhwal</h1>
+<h3 align="center">I am a Software Engineering student who is passionate about learning new skills.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://kushalvyas.github.io/images/mkz.gif">
 
