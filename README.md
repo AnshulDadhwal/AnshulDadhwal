@@ -3,10 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://kushalvyas.github.io/images/mkz.gif">
 
-I am Anshul Dadhwal, who is currently a Junior student in University of Queensland (UQ) studying Bachelor's of Engineering (Honours) in Software Engineering. I am an extremely passionate individual with a drive to learn new skills every day. I love to write code! I enjoy talking about everything in Technology. 
+I am Anshul Dadhwal, who is currently a Junior student in University of Queensland (UQ) studying Bachelor's of Engineering (Honours) in Software Engineering. I am an extremely passionate individual with a drive to learn new skills every day. I love to write code! I enjoy talking about everything in Technology.
 
-As a software engineering major, I have recently started out in the world of DevOps and exploring the field of Machine Learning and Artificial Intelligence. This semester, I am studying Cloud Computing, Probability and Statistics, Programming in the Large and Introduction to Computer Systems.
-
+As a software engineering major, I have recently started out in the world of DevOps and exploring the field of Machine Learning and Artificial Intelligence.
 Besides coding, I spend my free time listening to music and going out on late night walks! Some of my favourite sport based hobbies include football, tennis and cricket.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and MERN Stack**
