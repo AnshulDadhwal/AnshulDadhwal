@@ -27,11 +27,17 @@ Besides coding, I spend my free time listening to music and going out on late ni
 
 ### 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&" alt="anshuldadhwal" /></p>
+<p>
+
+  ![](https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl)](https://git.io/streak-stats)<br/>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
 
 ### 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=anshuldadhwal&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
