@@ -14,7 +14,7 @@ Besides coding, I spend my free time listening to music and going out on late ni
 
 - 🤝 I’m looking for help with **DevOps and Machine Learning**
 
-- 📫 How to reach me **anshul.dadhwal1@gmail.com**
+- 📫 How to reach me: **anshul.dadhwal1@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuldadhwal&label=Profile%20views&color=0e75b6&style=flat" alt="anshuldadhwal" /> </p>
 
