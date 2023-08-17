@@ -32,10 +32,8 @@ Besides coding, I spend my free time listening to music and going out on late-ni
 
 <p>
 
-![](https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl)](https://git.io/streak-stats)<br/>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /></a>
 
 </p>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
