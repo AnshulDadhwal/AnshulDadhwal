@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **anshul.dadhwal1@gmail.com**
 
-Besides coding, I spend my free time listening to music and going out on late-night walks! Some of my hobbies include football, tennis, and cricket.
+Besides coding, I spend my free time listening to music and going out on late-night walks! Some of my hobbies include football, tennis, f1 racing, and cricket.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuldadhwal&label=Profile%20views&color=0e75b6&style=flat" alt="anshuldadhwal" /> </p>
 
