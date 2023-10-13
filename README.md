@@ -1,13 +1,16 @@
-<h1 align="center">Hello there 👋, I'm Anshul Dadhwal</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student+%40+UQ;Committee+Member+%40+UQCS" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=36&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B;I+am+Anshul+Dadhwal" alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://kushalvyas.github.io/images/mkz.gif">
+
+- 🎓 Software Engineering @ **University of Queensland**.
 
 - 🌱 Learning **Machine Learning, Web Development, and DevOps**.
 
 - 🤝 Looking to collaborate on **Open Source Projects**.
 
 - 🔬 Researching on **Verification of Metadata in Software Supply Chain Security**.
+
+- 👥 Executive Committee Member @ **UQ Computing Society**.
 
 - 📫 How to reach me: **anshul.dadhwal1@gmail.com**
 
