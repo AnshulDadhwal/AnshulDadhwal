@@ -28,8 +28,8 @@ Besides coding, I spend my free time listening to music and going out on late-ni
 
 ### 📊 GitHub Stats:
 <p>
-  <a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl" alt="Anurag's github stats" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /></a>
+  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl" alt="Anurag's github stats"></a>
+  <a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
