@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anshul Dadhwal</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student+%40+UQ;Committee+Member+%40+UQCS" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=550&lines=Software+Engineering+Student+%40+UQ;Passionate+about+coding+and+everything+tech!" alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://kushalvyas.github.io/images/mkz.gif">
 
