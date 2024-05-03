@@ -17,10 +17,10 @@ Besides coding, I spend my free time listening to music and going out on late-ni
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshul-dadhwal-8b7271226/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="75"></a>
-  <a href="https://www.instagram.com/anshul.dadhwal/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="75"></a>
-  <a href="https://medium.com/@anshul.dadhwal1"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="75"></a>
-  <a href="https://stackoverflow.com/users/16454724/anshul-dadhwal"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png" width="75"></a>
+  <a href="https://www.linkedin.com/in/anshul-dadhwal-8b7271226/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+  <a href="https://www.instagram.com/anshul.dadhwal/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+  <a href="https://medium.com/@anshul.dadhwal1"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="60"></a>
+  <a href="https://stackoverflow.com/users/16454724/anshul-dadhwal"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png" width="60"></a>
 </p>
 
 ### 🛠️ Languages and Tools:
@@ -32,9 +32,7 @@ Besides coding, I spend my free time listening to music and going out on late-ni
 
 ### 📊 GitHub Stats:
 <p>
-  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl" alt="Anshul's github stats"></a>
-  <a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"></a>
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldadhwal&theme=nightowl" alt="Anshul's github stats"></a>
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anshuldadhwal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"></a>
 </p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
