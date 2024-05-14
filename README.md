@@ -7,7 +7,7 @@
 
 - 🤝 Looking to collaborate on **Open Source Projects**.
 
-- 🔬 Researching on **Verification of Metadata in Software Supply Chain Security**.
+- 🔬 Researching on **Verification of Metadata Accuracy in Software Supply Chain Security**.
 
 - 📫 How to reach me: **anshul.dadhwal1@gmail.com**
 
